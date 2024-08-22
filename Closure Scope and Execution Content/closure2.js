@@ -1,3 +1,6 @@
+// Closure, Scope & Execution Context
+// https://csx.codesmith.io/units/closures/intro-closures
+
 function outer() {
     let counter = 0;
     function incrementCounter () {

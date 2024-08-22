@@ -1,3 +1,6 @@
+// Closure, Scope & Execution Context
+// https://csx.codesmith.io/units/closures/intro-closures
+
 function createFunction() {
     function multiplyBy2 (num) {
         return num*2;
